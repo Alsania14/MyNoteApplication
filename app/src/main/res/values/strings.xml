@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALSANIA NOTE</string>
+    <string name="all_right_reserved">All Right Reserved</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">cancel</string>
+    <string name="submit">submit</string>
+    <string name="masukkan_deskripsi_disini">Masukkan Deskripsi Disini</string>
+    <string name="masukkan_judul">Masukkan Judul</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
